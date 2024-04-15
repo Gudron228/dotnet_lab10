@@ -1,0 +1,12 @@
+C:\Users\efrem\source\repos\Lab 10\Lab A\Ex1\Starter\DeviceController\bin\Debug\DeviceController.dll
+C:\Users\efrem\source\repos\Lab 10\Lab A\Ex1\Starter\DeviceController\bin\Debug\DeviceController.pdb
+C:\Users\efrem\source\repos\Lab 10\Lab A\Ex1\Starter\DeviceController\obj\x86\Debug\DeviceController.csproj.AssemblyReference.cache
+C:\Users\efrem\source\repos\Lab 10\Lab A\Ex1\Starter\DeviceController\obj\x86\Debug\DeviceController.csproj.CoreCompileInputs.cache
+C:\Users\efrem\source\repos\Lab 10\Lab A\Ex1\Starter\DeviceController\obj\x86\Debug\DeviceController.dll
+C:\Users\efrem\source\repos\Lab 10\Lab A\Ex1\Starter\DeviceController\obj\x86\Debug\DeviceController.pdb
+D:\labs\Lab 10\Lab A\Ex1\Starter\DeviceController\bin\Debug\DeviceController.dll
+D:\labs\Lab 10\Lab A\Ex1\Starter\DeviceController\bin\Debug\DeviceController.pdb
+D:\labs\Lab 10\Lab A\Ex1\Starter\DeviceController\obj\x86\Debug\DeviceController.csproj.AssemblyReference.cache
+D:\labs\Lab 10\Lab A\Ex1\Starter\DeviceController\obj\x86\Debug\DeviceController.csproj.CoreCompileInputs.cache
+D:\labs\Lab 10\Lab A\Ex1\Starter\DeviceController\obj\x86\Debug\DeviceController.dll
+D:\labs\Lab 10\Lab A\Ex1\Starter\DeviceController\obj\x86\Debug\DeviceController.pdb

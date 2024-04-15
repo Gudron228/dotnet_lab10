@@ -1,0 +1,2 @@
+D:\labs\Lab 10\Lab A\Ex2\Starter\DeviceController\obj\x86\Debug\DeviceController.csproj.AssemblyReference.cache
+D:\labs\Lab 10\Lab A\Ex2\Starter\DeviceController\obj\x86\Debug\DeviceController.csproj.CoreCompileInputs.cache

@@ -1,0 +1,2 @@
+D:\labs\Lab 10\Lab A\Ex2\Starter\MeasuringDevice\obj\x86\Debug\MeasuringDevice.csproj.AssemblyReference.cache
+D:\labs\Lab 10\Lab A\Ex2\Starter\MeasuringDevice\obj\x86\Debug\MeasuringDevice.csproj.CoreCompileInputs.cache

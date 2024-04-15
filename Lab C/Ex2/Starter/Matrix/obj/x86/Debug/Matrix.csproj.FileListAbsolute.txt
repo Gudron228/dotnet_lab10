@@ -1,0 +1,12 @@
+C:\Users\efrem\source\repos\Lab 10\Lab C\Ex2\Starter\Matrix\bin\Debug\Exercise3.dll
+C:\Users\efrem\source\repos\Lab 10\Lab C\Ex2\Starter\Matrix\bin\Debug\Exercise3.pdb
+C:\Users\efrem\source\repos\Lab 10\Lab C\Ex2\Starter\Matrix\obj\x86\Debug\Matrix.csproj.AssemblyReference.cache
+C:\Users\efrem\source\repos\Lab 10\Lab C\Ex2\Starter\Matrix\obj\x86\Debug\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\efrem\source\repos\Lab 10\Lab C\Ex2\Starter\Matrix\obj\x86\Debug\Exercise3.dll
+C:\Users\efrem\source\repos\Lab 10\Lab C\Ex2\Starter\Matrix\obj\x86\Debug\Exercise3.pdb
+D:\labs\Lab 10\Lab C\Ex2\Starter\Matrix\bin\Debug\Exercise3.dll
+D:\labs\Lab 10\Lab C\Ex2\Starter\Matrix\bin\Debug\Exercise3.pdb
+D:\labs\Lab 10\Lab C\Ex2\Starter\Matrix\obj\x86\Debug\Matrix.csproj.AssemblyReference.cache
+D:\labs\Lab 10\Lab C\Ex2\Starter\Matrix\obj\x86\Debug\Matrix.csproj.CoreCompileInputs.cache
+D:\labs\Lab 10\Lab C\Ex2\Starter\Matrix\obj\x86\Debug\Exercise3.dll
+D:\labs\Lab 10\Lab C\Ex2\Starter\Matrix\obj\x86\Debug\Exercise3.pdb
